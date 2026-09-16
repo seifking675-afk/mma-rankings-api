@@ -1,0 +1,804 @@
+{
+  "updatedAt": "2026-09-16T01:32:00.927063+00:00",
+  "lastSync": "Sep 16, 2026 01:32 UTC",
+  "source": "fightiqai.com AI Telemetry (Automated Cloud Sync)",
+  "eventSlug": "ufc-331",
+  "eventName": "UFC 331",
+  "eventDate": "Sep 19, 2026",
+  "eventVenue": "T-Mobile Arena, Las Vegas, NV",
+  "bouts": [
+    {
+      "id": "b01",
+      "segment": "main",
+      "segmentLabel": "Main Card",
+      "isTitle": true,
+      "weightClass": "Flyweight",
+      "rounds": 5,
+      "f1": {
+        "name": "Joshua Van",
+        "shortName": "Van",
+        "record": "17–2–0",
+        "odds": "-130",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/63624469-4a61-4966-aa6a-879ef7b32e3c.png?",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Alexandre Pantoja",
+        "shortName": "Pantoja",
+        "record": "30–6–0",
+        "odds": "+110",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/55f43138-bf58-4022-923d-4d8b6088e505.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Joshua Van",
+        "score": 54,
+        "tier": "Slight Favorite",
+        "color": "gold"
+      },
+      "shape": {
+        "ko": 47,
+        "sub": 13,
+        "dec": 40
+      },
+      "market": "Live FightIQ Consensus: Joshua Van (54% AI Confidence)",
+      "analysis": "Premier UFC bout in the Flyweight division. AI telemetry forecasts Joshua Van with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b02",
+      "segment": "main",
+      "segmentLabel": "Main Card",
+      "isTitle": false,
+      "weightClass": "Lightweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Arman Tsarukyan",
+        "shortName": "Tsarukyan",
+        "record": "23–3–0",
+        "odds": "-290",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/f3a2ffc4-cfc2-4e24-a9a1-e5139a9b53ec.jpg",
+        "flag": "🇷🇺",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Mauricio Ruffy",
+        "shortName": "Ruffy",
+        "record": "14–2–0",
+        "odds": "+235",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/c42c0ad0-e9bc-4835-af8d-b436c4366a98.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Arman Tsarukyan",
+        "score": 71,
+        "tier": "Strong Favorite",
+        "color": "blue"
+      },
+      "shape": {
+        "ko": 33,
+        "sub": 12,
+        "dec": 55
+      },
+      "market": "Live FightIQ Consensus: Arman Tsarukyan (71% AI Confidence)",
+      "analysis": "Premier UFC bout in the Lightweight division. AI telemetry forecasts Arman Tsarukyan with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b03",
+      "segment": "main",
+      "segmentLabel": "Main Card",
+      "isTitle": false,
+      "weightClass": "Featherweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Patricio Freire",
+        "shortName": "Freire",
+        "record": "37–9–0",
+        "odds": "+220",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/ce4cddf9-c1b0-4659-9eb0-f60bda511a00.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Doo Ho Choi",
+        "shortName": "Choi",
+        "record": "17–4–1",
+        "odds": "-270",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/7d7202ba-40fb-4cb5-b280-7ae9195af5ae.jpg",
+        "flag": "🇰🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Doo Ho Choi",
+        "score": 70,
+        "tier": "Strong Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 30,
+        "sub": 10,
+        "dec": 60
+      },
+      "market": "Live FightIQ Consensus: Doo Ho Choi (70% AI Confidence)",
+      "analysis": "Premier UFC bout in the Featherweight division. AI telemetry forecasts Doo Ho Choi with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b04",
+      "segment": "main",
+      "segmentLabel": "Main Card",
+      "isTitle": false,
+      "weightClass": "Light Heavyweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Alonzo Menifield",
+        "shortName": "Menifield",
+        "record": "18–6–1",
+        "odds": "+185",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/50e8e392-3ce3-4aba-a392-4b07aefdc361.jpg",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Iwo Baraniewski",
+        "shortName": "Baraniewski",
+        "record": "9–0–0",
+        "odds": "-225",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/d2348865-b6b4-4489-aa60-eb6f9ab47789.jpg",
+        "flag": "🇵🇱",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Iwo Baraniewski",
+        "score": 66,
+        "tier": "Strong Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 18,
+        "sub": 37,
+        "dec": 45
+      },
+      "market": "Live FightIQ Consensus: Iwo Baraniewski (66% AI Confidence)",
+      "analysis": "Premier UFC bout in the Light Heavyweight division. AI telemetry forecasts Iwo Baraniewski with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b05",
+      "segment": "main",
+      "segmentLabel": "Main Card",
+      "isTitle": false,
+      "weightClass": "Heavyweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Gable Steveson",
+        "shortName": "Steveson",
+        "record": "4–0–0",
+        "odds": "-1800",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/0d2f397f-420a-42fa-8b3a-37cf43acd0a6.jpg",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Sean Sharaf",
+        "shortName": "Sharaf",
+        "record": "4–2–0",
+        "odds": "+1000",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/7f184649-7e42-428b-b0ab-3cda60308edd.jpg",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Gable Steveson",
+        "score": 91,
+        "tier": "Heavy Favorite",
+        "color": "blue"
+      },
+      "shape": {
+        "ko": 28,
+        "sub": 17,
+        "dec": 55
+      },
+      "market": "Live FightIQ Consensus: Gable Steveson (91% AI Confidence)",
+      "analysis": "Premier UFC bout in the Heavyweight division. AI telemetry forecasts Gable Steveson with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b06",
+      "segment": "prelims",
+      "segmentLabel": "Prelims",
+      "isTitle": false,
+      "weightClass": "Bantamweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Marlon Vera",
+        "shortName": "Vera",
+        "record": "23–12–1",
+        "odds": "+190",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/a1053549-2d76-4270-b8f6-3a3b016f5aa5.jpg",
+        "flag": "🇪🇨",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Charles Jourdain",
+        "shortName": "Jourdain",
+        "record": "18–8–1",
+        "odds": "-230",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/b41ce1fb-08e3-4158-be8e-2c7dd6b11be0.jpg",
+        "flag": "🇨🇦",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Charles Jourdain",
+        "score": 67,
+        "tier": "Strong Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 21,
+        "sub": 39,
+        "dec": 40
+      },
+      "market": "Live FightIQ Consensus: Charles Jourdain (67% AI Confidence)",
+      "analysis": "Premier UFC bout in the Bantamweight division. AI telemetry forecasts Charles Jourdain with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b07",
+      "segment": "prelims",
+      "segmentLabel": "Prelims",
+      "isTitle": false,
+      "weightClass": "Heavyweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Tai Tuivasa",
+        "shortName": "Tuivasa",
+        "record": "14–10–0",
+        "odds": "+500",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/38426769-b14a-4532-a6bb-0cd3bee37cf6.png?",
+        "flag": "🇦🇺",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Robelis Despaigne",
+        "shortName": "Despaigne",
+        "record": "6–2–0",
+        "odds": "-700",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/db36f3db-f8b5-4a7f-a8cb-8a6e1819a39b.jpg",
+        "flag": "🏳️",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Robelis Despaigne",
+        "score": 84,
+        "tier": "Heavy Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 72,
+        "sub": 38,
+        "dec": 15
+      },
+      "market": "Live FightIQ Consensus: Robelis Despaigne (84% AI Confidence)",
+      "analysis": "Premier UFC bout in the Heavyweight division. AI telemetry forecasts Robelis Despaigne with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b08",
+      "segment": "prelims",
+      "segmentLabel": "Prelims",
+      "isTitle": false,
+      "weightClass": "Featherweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Michael Aswell Jr.",
+        "shortName": "Jr.",
+        "record": "11–5–0",
+        "odds": "+215",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/7d18504a-4c4e-4087-bf91-fa24da00d0cd.jpg",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "JooSang Yoo",
+        "shortName": "Yoo",
+        "record": "9–1–0",
+        "odds": "-265",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/839047c0-035d-4260-b709-200481cb3b9c.jpg",
+        "flag": "🇰🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "JooSang Yoo",
+        "score": 70,
+        "tier": "Strong Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 30,
+        "sub": 10,
+        "dec": 60
+      },
+      "market": "Live FightIQ Consensus: JooSang Yoo (70% AI Confidence)",
+      "analysis": "Premier UFC bout in the Featherweight division. AI telemetry forecasts JooSang Yoo with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b09",
+      "segment": "prelims",
+      "segmentLabel": "Prelims",
+      "isTitle": false,
+      "weightClass": "Middleweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Ryan Gandra",
+        "shortName": "Gandra",
+        "record": "10–1–0",
+        "odds": "-535",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/435f30d1-89d7-41bf-8d7b-7215dcc1c5d1.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Ozzy Diaz",
+        "shortName": "Diaz",
+        "record": "10–4–0",
+        "odds": "+400",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/5dec0d01-4d77-4826-9900-2b8cf7b1b2a9.jpg",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Ryan Gandra",
+        "score": 81,
+        "tier": "Heavy Favorite",
+        "color": "blue"
+      },
+      "shape": {
+        "ko": 63,
+        "sub": 32,
+        "dec": 15
+      },
+      "market": "Live FightIQ Consensus: Ryan Gandra (81% AI Confidence)",
+      "analysis": "Premier UFC bout in the Middleweight division. AI telemetry forecasts Ryan Gandra with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b10",
+      "segment": "early_prelims",
+      "segmentLabel": "Early Prelims",
+      "isTitle": false,
+      "weightClass": "Middleweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Edmen Shahbazyan",
+        "shortName": "Shahbazyan",
+        "record": "16–6–0",
+        "odds": "-162",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/db011f5d-7e1b-4163-911d-cc522743c6e2.png?",
+        "flag": "🇺🇸",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Brunno Ferreira",
+        "shortName": "Ferreira",
+        "record": "15–4–0",
+        "odds": "+136",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/a1b5b8ff-9cbe-453a-b767-73d76cb66f8b.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Edmen Shahbazyan",
+        "score": 59,
+        "tier": "Favorite",
+        "color": "blue"
+      },
+      "shape": {
+        "ko": 62,
+        "sub": 23,
+        "dec": 15
+      },
+      "market": "Live FightIQ Consensus: Edmen Shahbazyan (59% AI Confidence)",
+      "analysis": "Premier UFC bout in the Middleweight division. AI telemetry forecasts Edmen Shahbazyan with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b11",
+      "segment": "early_prelims",
+      "segmentLabel": "Early Prelims",
+      "isTitle": false,
+      "weightClass": "Flyweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Casey O'Neill",
+        "shortName": "O'Neill",
+        "record": "11–2–0",
+        "odds": "-192",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/f730caef-e635-4e6b-89a4-2a53bac0fbff.jpg",
+        "flag": "🏳️",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Eduarda Moura",
+        "shortName": "Moura",
+        "record": "12–2–0",
+        "odds": "+160",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/e6f4a749-c304-4019-bf6a-4e1c2ef1d45b.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Casey O'Neill",
+        "score": 63,
+        "tier": "Favorite",
+        "color": "blue"
+      },
+      "shape": {
+        "ko": 74,
+        "sub": 31,
+        "dec": 15
+      },
+      "market": "Live FightIQ Consensus: Casey O'Neill (63% AI Confidence)",
+      "analysis": "Premier UFC bout in the Flyweight division. AI telemetry forecasts Casey O'Neill with analytical advantage across striking and cage control metrics."
+    },
+    {
+      "id": "b12",
+      "segment": "early_prelims",
+      "segmentLabel": "Early Prelims",
+      "isTitle": false,
+      "weightClass": "Featherweight",
+      "rounds": 3,
+      "f1": {
+        "name": "Giga Chikadze",
+        "shortName": "Chikadze",
+        "record": "15–6–0",
+        "odds": "+320",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/bbfb6e3f-7101-49a0-aeb6-b5f8b6b6f6b4.jpg",
+        "flag": "🇬🇪",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 9 in",
+        "reach": "72 in",
+        "stance": "Orthodox",
+        "slpm": "4.85",
+        "sapm": "3.20",
+        "tdDef": "82%"
+      },
+      "f2": {
+        "name": "Joanderson Brito",
+        "shortName": "Brito",
+        "record": "19–5–1",
+        "odds": "-410",
+        "photo": "https://qeojshpdnnnynumwbrtd.supabase.co/storage/v1/object/public/fighter-photos/headshots/50c982a9-273c-42d4-8e73-8a2cec4cb1f7.jpg",
+        "flag": "🇧🇷",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ],
+        "ht": "5 ft 8 in",
+        "reach": "70 in",
+        "stance": "Orthodox",
+        "slpm": "4.10",
+        "sapm": "3.45",
+        "tdDef": "78%"
+      },
+      "pred": {
+        "winner": "Joanderson Brito",
+        "score": 77,
+        "tier": "Strong Favorite",
+        "color": "green"
+      },
+      "shape": {
+        "ko": 51,
+        "sub": 24,
+        "dec": 25
+      },
+      "market": "Live FightIQ Consensus: Joanderson Brito (77% AI Confidence)",
+      "analysis": "Premier UFC bout in the Featherweight division. AI telemetry forecasts Joanderson Brito with analytical advantage across striking and cage control metrics."
+    }
+  ],
+  "upcomingSchedule": [
+    {
+      "title": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+      "date": "Sep 26, 2026",
+      "fights": "12 fights",
+      "venue": "UFC Apex, Las Vegas, NV",
+      "slug": "ufc-fight-night-rosas-jr-vs-barcelos"
+    },
+    {
+      "title": "UFC 332: Silva vs. Wang",
+      "date": "Oct 3, 2026",
+      "fights": "13 fights",
+      "venue": "T-Mobile Arena, Las Vegas, NV",
+      "slug": "ufc-332"
+    },
+    {
+      "title": "UFC Fight Night: Allen vs. Duncan",
+      "date": "Oct 10, 2026",
+      "fights": "12 fights",
+      "venue": "UFC Apex, Las Vegas, NV",
+      "slug": "ufc-fight-night-allen-vs-duncan"
+    },
+    {
+      "title": "UFC Fight Night: Buckley vs. Malott",
+      "date": "Oct 17, 2026",
+      "fights": "12 fights",
+      "venue": "UFC Apex, Las Vegas, NV",
+      "slug": "ufc-fight-night-buckley-vs-malott"
+    },
+    {
+      "title": "UFC 333: Volkanovski vs. Evloev",
+      "date": "Oct 24, 2026",
+      "fights": "9 fights",
+      "venue": "T-Mobile Arena, Las Vegas, NV",
+      "slug": "ufc-333"
+    }
+  ]
+}
