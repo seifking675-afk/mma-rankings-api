@@ -36,5 +36,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add current_fight_card.json rankings.json
+          git add current_fight_card.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update UFC fight cards & telemetry [skip ci]" && git push)
